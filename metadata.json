@@ -1,0 +1,6 @@
+{
+  "name": "KOMDÉ",
+  "description": "Plateforme africaine de messagerie moderne, légère et fluide conçue pour communiquer, partager et connecter avec mode économie de données et identité authentique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
